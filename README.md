@@ -17,6 +17,7 @@
    resume and building the Resume Classification Model.
 
 📌💻🧠In this work, I compare different types of machine-learning algorithms:
+
         🎯K-Nearest Neighbors
         🌲Decision Tree
         🌲Random Forest

@@ -1,8 +1,10 @@
 # RESUME-CLASSIFICATION-
 
-🗂📑📝🖥The document classification solution should significantly reduce the manual human effort in the HRM. It should achieve a higher level of accuracy and automation with minimal human intervention.
+🗂📑📝🖥The document classification solution should significantly reduce the manual human effort in the HRM.
+         It should achieve a higher level of accuracy and automation with minimal human intervention.
 
-📌📄🧠🖥A resume is a brief summary of your skills and experience. Companies recruiters and HR teams have a tough time scanning thousands of qualified resumes. Spending too many labor hours segregating candidates 
+📌📄🧠🖥A resume is a brief summary of your skills and experience. Companies recruiters and HR teams have a tough time scanning thousands of qualified resumes. 
+         Spending too many labor hours segregating candidates 
          resume's manually is a waste of a company's time, money, and productivity. Recruiters, therefore, use resume classification in order to streamline the resume and applicant screening process. NLP technology 
          allows recruiters to electronically gather, store, and organize large quantities of resumes. Once acquired, the resume data can be easily searched through and analyzed.
 

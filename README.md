@@ -7,7 +7,9 @@
          allows recruiters to electronically gather, store, and organize large quantities of resumes. Once acquired, the resume data can be easily searched through and analyzed.
 
 🔸The basic data analysis process performed such as data collection, text mining, data cleaning, exploratory data analysis, data visualization.
+
 🔹Building a Machine learning model for Resume Classification using Python and basic Natural language processing techniques.
+
 🔸Used Python's libraries to implement various NLP techniques like tokenization, lemmatization, parts of speech tagging, etc.
 
 🔹A resume classification analyzes resume data and extracts the information into the machine-readable output. It helps automatically store, organize, and analyze the resume data to find out the candidate for the 
